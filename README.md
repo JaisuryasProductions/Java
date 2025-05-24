@@ -1,2 +1,1 @@
-# Java
-Java Fundamental Project files by Cognizant are uploaded here 
+hi I'm Jaisurya S, This is my Java Fundamentals program for Cognizant Upskilling Program.
